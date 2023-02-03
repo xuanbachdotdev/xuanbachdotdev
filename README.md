@@ -10,4 +10,4 @@ A college student who loves open source projects.
 
 ### Overall Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanbachdotdev&show_icons=true&theme=dark)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanbachdotdev&show_icons=true&theme=dark)
